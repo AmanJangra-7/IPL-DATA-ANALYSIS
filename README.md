@@ -7,7 +7,7 @@ This project analyzes Indian Premier League (IPL) cricket data using Python, Pan
 
 ### Team Performance Analysis
 
-![Team Analysis](IMAGE_URL_HERE)
+![Team Analysis](Screenshot 2026-05-18 182229.png)
 
 ### Top Run Scorers
 

@@ -3,15 +3,19 @@
 ## Project Overview
 
 This project analyzes Indian Premier League (IPL) cricket data using Python, Pandas and Matplotlib.
+## Project Screenshots
 
-The project provides insights into:
+### Team Performance Analysis
 
-- Team Performance
-- Top Run Scorers
-- Top Wicket Takers
-- Toss Impact
-- Venue Analysis
-- Season-wise Statistics
+![Team Analysis](IMAGE_URL_HERE)
+
+### Top Run Scorers
+
+![Top Run Scorers](IMAGE_URL_HERE)
+
+### Venue Analysis
+
+![Venue Analysis](IMAGE_URL_HERE)
 
 ---
 

@@ -81,25 +81,3 @@ Aman Jangra
 MSc Computer Data Science & Machine Learning
 
 MDU Rohtak
-
-## 📸 Project Screenshots
-
-### 🏠 Dashboard Interface
-<p align="center">
-  <img src="screenshots/ipl analysis dashboard.png" width="850">
-</p>
-
-### 🏆 Player of the Match Analysis
-<p align="center">
-  <img src="screenshots/player of the match.png" width="850">
-</p>
-
-### 🪙 Toss Impact Analysis
-<p align="center">
-  <img src="screenshots/toss analysis.png" width="850">
-</p>
-
-### 📊 Batting Analysis Scatter Plot
-<p align="center">
-  <img src="screenshots/batting scatter analysis.png" width="850">
-</p>

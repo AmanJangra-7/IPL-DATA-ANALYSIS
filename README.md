@@ -8,32 +8,31 @@ This project analyzes Indian Premier League (IPL) cricket data using Python, Pan
 
 ### 🏠 IPL Analysis Dashboard
 
-![IPL Analysis Dashboard](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/ipl%20analysis%20dashboard(2).png)
+![IPL Analysis Dashboard](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/ipl%20analysis%20dashboard.png?raw=true)
 
 ---
 
 ### 🏆 Player of the Match
 
-![Player of the Match](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/player%20of%20the%20match(2).png)
+![Player of the Match](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/player%20of%20the%20match.png?raw=true)
 
 ---
 
 ### 🎯 Top Wicket Takers
 
-![Top Wicket Takers](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/top%20wicket%20takers(1).png)
+![Top Wicket Takers](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/top%20wicket%20takers.png?raw=true)
 
 ---
 
 ### 📊 Batting Analysis Scatter Plot
 
-![Batting Analysis Scatter Plot](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/batting%20scatter%20analysis(2).png)
+![Batting Analysis Scatter Plot](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/batting%20scatter%20analysis.png?raw=true)
 
 ---
 
 ### 🤝 Head to Head Win Share
 
-![Head to Head Win Share](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/head%20to%20head(1).png)
-
+![Head to Head Win Share](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/head%20to%20head.png?raw=true)
 
 ---
 

@@ -3,16 +3,37 @@
 ## Project Overview
 
 This project analyzes Indian Premier League (IPL) cricket data using Python, Pandas and Matplotlib.
-## Project Screenshots
 
-The project provides insights into:
+## 📸 Project Screenshots
 
-- Team Performance
-- Top Run Scorers
-- Top Wicket Takers
-- Toss Impact
-- Venue Analysis
-- Season-wise Statistics
+### 🏠 IPL Analysis Dashboard
+
+![IPL Analysis Dashboard](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/ipl%20analysis%20dashboard(2).png)
+
+---
+
+### 🏆 Player of the Match
+
+![Player of the Match](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/player%20of%20the%20match(2).png)
+
+---
+
+### 🎯 Top Wicket Takers
+
+![Top Wicket Takers](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/top%20wicket%20takers(1).png)
+
+---
+
+### 📊 Batting Analysis Scatter Plot
+
+![Batting Analysis Scatter Plot](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/batting%20scatter%20analysis(2).png)
+
+---
+
+### 🤝 Head to Head Win Share
+
+![Head to Head Win Share](https://github.com/AmanJangra-7/IPL-DATA-ANALYSIS/blob/main/screenshots/head%20to%20head(1).png)
+
 
 ---
 
